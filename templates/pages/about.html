@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/pages/about.css' %}">
+{% endblock %}
+
+{% block title %}About{% endblock %}
+
+{% block content %}
+<div class="background_filling"></div>
+<section class="about_page_section layout_margin">
+    <div class="welcoming_section container">
+        <div class="row">
+            <div class="col-12 col-md-5">
+                <div class="img_box">
+                    <img src="{% static 'media/img/avatar.jpg' %}" alt="">
+                </div>
+            </div>
+            <div class="col-12 col-md-7">
+                <div class="detail_box">
+                    <div class="heading_container">
+                        <h2>Melahat YAZAR, lic. phil.</h2>
+                        <h5 class="subTitle">Psychologin FSP</h5>
+                    </div>
+                    <p>{% trans 'AboutPageText' %}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container layout_padding-top">
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="card">
+                    <img src="{% static 'media/img/diplom.jpg' %}" alt="" class="card_image">
+                    <div class="card_overlay">
+                        <h4 class="card_header">{% trans 'FirstCertTitle' %}</h4>
+                        <p class="card_description">{% trans 'FirstCertText' %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="card">
+                    <img src="{% static 'media/img/diplom.jpg' %}" alt="" class="card_image">
+                    <div class="card_overlay">
+                        <h4 class="card_header">{% trans 'SecondCertTitle' %}</h4>
+                        <p class="card_description">{% trans 'SecondCertText' %}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="card">
+                    <img src="{% static 'media/img/diplom.jpg' %}" alt="" class="card_image">
+                    <div class="card_overlay">
+                        <h4 class="card_header">{% trans 'ThirdCertTitle' %}</h4>
+                        <p class="card_description">{% trans 'ThirdCertText' %}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

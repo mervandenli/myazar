@@ -1,0 +1,148 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/pages/index.css' %}">
+{% endblock %}
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+<!-- banner section -->
+<div class="banner">
+    <div class="banner_mask">
+        <div class="banner_right">
+            <div class="titleBox">
+                <h2 class="title">Melahat YAZAR, lic. phil.</h2>
+                <h5 class="subTitle">Psychologin FSP</h5>
+            </div>
+            <div class="textBox">
+                <p>{% trans 'BannerText' %}</p>
+            </div>
+            <div class="buttonBox">
+                <a href="tel:0762775557">{% trans 'PhoneButton' %}</a>
+                <a href="mailto:m.yazar@bluewin.ch">{% trans 'MailButton' %}</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end banner section -->
+
+
+<!-- contact section -->
+<section class="contact_section layout_padding-top">
+    <div class="contact_container">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-md-3">
+                    <div class="contact_box">
+                        <div class="icon_box">
+                            <i class="fas fa-map-marked-alt"></i>
+                        </div>
+                        <div class="detail_box">
+                            <h5>{% trans 'AdressText' %}</h5>
+                            <p>Waisenhauspl. 21<br>3011 Bern</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="contact_box">
+                        <div class="icon_box">
+                            <i class="fas fa-fax"></i>
+                        </div>
+                        <div class="detail_box">
+                            <h5>Fax</h5>
+                            <p>031 311 26 68</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="contact_box">
+                        <div class="icon_box">
+                            <i class="fas fa-mobile-alt"></i>
+                        </div>
+                        <div class="detail_box">
+                            <h5>{% trans 'MobileText' %}</h5>
+                            <p>076 277 55 57</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="contact_box">
+                        <div class="icon_box">
+                            <i class="far fa-envelope"></i>
+                        </div>
+                        <div class="detail_box">
+                            <h5>Mail</h5>
+                            <p>m.yazar@bluewin.ch</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end contact section -->
+
+
+<!-- about section -->
+<section class="about_section layout_margin">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-5">
+                <div class="img_box">
+                    <img src="{% static 'media/img/avatar.jpg' %}" alt="">
+                </div>
+            </div>
+            <div class="col-12 col-md-7">
+                <div class="detail_box">
+                    <div class="heading_container">
+                        <h2>Melahat YAZAR, lic. phil.</h2>
+                        <h5 class="subTitle">Psychologin FSP</h5>
+                    </div>
+                    <p>{% trans 'AboutText' %}</p>
+                    <a href="{% url 'about' %}">{% trans 'ReadMoreButton' %}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end about section -->
+
+
+<!-- method section -->
+<section class="method_section layout_margin">
+    <div class="container">
+        <h2>{% trans 'ParagraphTitle' %}</h2>
+        <p>{% trans 'FirstParagraph' %}</p> <br>
+        <p>{% trans 'SecondParagraph' %}</p>
+
+    </div>
+</section>
+<!-- end method section -->
+
+
+<!-- picture section -->
+<section class="picture_section">
+    <div class="picture_container">
+        <div class="background_picture">
+            <div class="background_text">
+                <p>{% trans 'BackgroundText' %} <br>
+                    <span style="float:right;">- Neale Donald Walsch</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end picture section -->
+
+<!-- second method section -->
+<section class="method_section layout_margin">
+    <div class="container">
+        <p>{% trans 'ThirdParagraph' %}</p> <br>
+       <p>{% trans 'FourthParagraph' %}</p>
+    </div>
+</section>
+<!-- end second method section -->
+{% endblock %}

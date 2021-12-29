@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-21 21:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\m_yazar\settings.py:113
+msgid "German"
+msgstr "Deutsch"
+
+#: .\m_yazar\settings.py:114
+msgid "Kurdish"
+msgstr "Kurdî"
+
+#: .\m_yazar\settings.py:115
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: .\templates\pages\about.html:27
+msgid "AboutPageText"
+msgstr "Ich bin eine kurdische psychologische Beraterin, die einen Master in klinischer Psychologie, Allgemeiner Psychologie und Medizin an der Universität Basel erworben hat. Ich habe eine Ausbildung zur Kognitiven Verhaltenspsychotherapeutin in Psychotherapie absolviert. Und ich habe Berufserfahrung mit Kindern, Jugendlichen und Erwachsenen"
+
+#: .\templates\pages\about.html:38
+msgid "FirstCertTitle"
+msgstr "Universität Basel"
+
+#: .\templates\pages\about.html:39
+msgid "FirstCertText"
+msgstr "Studium der Klinischer Psychologie, Allgemeinpsychologie und Medizin"
+
+#: .\templates\pages\about.html:47
+msgid "SecondCertTitle"
+msgstr "Master-Studium"
+
+#: .\templates\pages\about.html:48
+msgid "SecondCertText"
+msgstr "Master-Studium"
+
+#: .\templates\pages\about.html:56
+msgid "ThirdCertTitle"
+msgstr "Psychotherapieausbildung"
+
+#: .\templates\pages\about.html:57
+msgid "ThirdCertText"
+msgstr "zu kognitiv-behavioraler Psychotherapeutin"
+
+#: .\templates\pages\contact.html:17
+msgid "AdressTitle"
+msgstr "Adresse"
+
+#: .\templates\pages\contact.html:18
+msgid "PhoneTitle"
+msgstr "Mobile"
+
+#: .\templates\pages\index.html:21
+msgid "BannerText"
+msgstr "Für Erwachsene, Familien, Jugendliche und Kinder, um Fragen zu stellen und einen Termin auf Kurdisch, Türkisch und Deutsch zu vereinbaren;"
+
+#: .\templates\pages\index.html:24
+msgid "PhoneButton"
+msgstr "Jetzt Anrufen"
+
+#: .\templates\pages\index.html:25
+msgid "MailButton"
+msgstr "Mail Senden"
+
+#: .\templates\pages\index.html:44
+msgid "AdressText"
+msgstr "Adresse"
+
+#: .\templates\pages\index.html:66
+msgid "MobileText"
+msgstr "Mobile"
+
+#: .\templates\pages\index.html:104
+msgid "AboutText"
+msgstr "Ich bin eine kurdische psychologische Beraterin, die einen Master in klinischer Psychologie, Allgemeiner Psychologie und Medizin an der Universität Basel erworben hat. Ich habe eine Ausbildung zur Kognitiven Verhaltenspsychotherapeutin in Psychotherapie absolviert. Und ich habe Berufserfahrung mit Kindern, Jugendlichen und Erwachsenen"
+
+#: .\templates\pages\index.html:105
+msgid "ReadMoreButton"
+msgstr "Weiterlesen"
+
+#: .\templates\pages\index.html:117
+msgid "ParagraphTitle"
+msgstr "Die Grundsätze der Kognitiv-behaviorale Psychotherapie sind"
+
+#: .\templates\pages\index.html:118
+msgid "FirstParagraph"
+msgstr "Kognitiv-behaviorale Psychotherapie basiert auf wissenschaftlich fundierten Erkenntnissen. Die Kognitiv-behaviorale arbeitenden Psychotherapeuten aktualisieren ihen Wissensstand durch kontinuierliche Fortbildungen. Die neuen Erkenntnisse werden in der Therapie angewendet. Insbesondere auf Einbezug der neuesten Forschungsergebnisse in Psychologie, Psychotherapie, Psychiatrie und Neurologie wird grossen Wert gelegt."
+
+#: .\templates\pages\index.html:119
+msgid "SecondParagraph"
+msgstr "Das Verhalten, Denken, Fühlen und die physiologischen Reaktionen des Menschen sind meist erlernt. Sind in diesen Bereichen Beschwerden vorhanden, glaubt die Theorie der kognitiv-behavioralen Psychotherapie daran, dass die Problembereiche verändert werden können. Man lernt neu, anders zu Fühlen, anders zu Denken usw."
+
+#: .\templates\pages\index.html:131
+msgid "BackgroundText"
+msgstr "Du bist der Schöpfer deiner eigenen Realität und das Leben kann dir keinen anderen Weg zeigen, als du denkst."
+
+#: .\templates\pages\index.html:143
+msgid "ThirdParagraph"
+msgstr "Gemeinsam mit Patienten werden Therapieziele vereinbart. Die Behandlung geht zu Ende, sobald diese erreicht wurden. Im Vergleich zu vielen anderen Psychotherapien dauert die kognitiv-behaviorale Psychotherapie weniger lang. Kognitiv-behaviorale Psychotherapie ist transparent. PatientInnen und TherapeutInnen gehen Probleme gemeinsam an. TherapeutInnen setzen die PatientInnen über therapeutische Vorgehensweise in Kenntnis."
+
+#: .\templates\pages\index.html:144
+msgid "FourthParagraph"
+msgstr "PatientInnen sind im Therapieprozess aktiv. Sie erlernen neue Arten des Verhaltens, Denkens, Fühlens und der Problemlösestrategien, die sie in ihrem Leben ausprobieren. Das neu Erlernte wird im Therapiesetting und im Alltag in die Tat umgesetzt. Kognitiv-behaviorale Psychotherapie definiert sich als Hilfe zur Selbsthilfe."
+
+#: .\templates\pages\method.html:16
+msgid "MethodWelcomingTitle"
+msgstr "WAS IST DIE KOGNITIV- BEHAVIORALE PSYCHOTHERAPIE"
+
+#: .\templates\pages\method.html:18
+msgid "MethodWelcomingText"
+msgstr "Kognitiv-behaviorale Psychotherapie ist eine Psychologische Behandlungsmethode der Psychischen Störungen, die auf wissenschaftlich fundierten Erkenntnissen basiert."
+
+#: .\templates\pages\method.html:29
+msgid "ListTitle"
+msgstr "Welche Störungsbilder werden durch Kognitiv-behaviorale Psychotherapie behandelt?"
+
+#: .\templates\pages\method.html:31
+msgid "FirstListItem"
+msgstr "Angst- und Panikstörungen"
+
+#: .\templates\pages\method.html:32
+msgid "SecondListItem"
+msgstr "Phobien (z.B. Agoraphobie)"
+
+#: .\templates\pages\method.html:33
+msgid "ThirdListItem"
+msgstr "Chronische Müdigkeitssyndrom"
+
+#: .\templates\pages\method.html:34
+msgid "FourthListItem"
+msgstr "Depressionen"
+
+#: .\templates\pages\method.html:35
+msgid "FifthListItem"
+msgstr "Zwangsstörungen"
+
+#: .\templates\pages\method.html:36
+msgid "SixthListItem"
+msgstr "Essstörungen"
+
+#: .\templates\pages\method.html:37
+msgid "SeventhListItem"
+msgstr "Sexuelle Funktionsstörungen"
+
+#: .\templates\pages\method.html:38
+msgid "EighthListItem"
+msgstr "Probleme in der sozialen Interaktion"
+
+#: .\templates\pages\method.html:39
+msgid "NinthListItem"
+msgstr "Paarprobleme (Paartherapie)"
+
+#: .\templates\pages\method.html:40
+msgid "TenthListItem"
+msgstr "Probleme in der Kindheit und Pubertät"
+
+#: .\templates\pages\method.html:41
+msgid "EleventhListItem"
+msgstr "Allgemeine gesundheitliche Probleme"
+
+#: .\templates\pages\method.html:42
+msgid "TwelfthListItem"
+msgstr "Chronische Schmerzen"
+
+#: .\templates\pages\method.html:43
+msgid "ThirteenthListItem"
+msgstr "Abhängigkeitsprobleme"
+
+#: .\templates\pages\method.html:44
+msgid "FourteenthListItem"
+msgstr "Probleme der Impulskontrolle"
+
+#: .\templates\pages\method.html:45
+msgid "FifteenthListItem"
+msgstr "Medikamenten-/Alkoholabhängigkeit"
+
+#: .\templates\pages\method.html:46
+msgid "SixteenthListItem"
+msgstr "Schizophrene oder andere Psychosen"
+
+#: .\templates\pages\method.html:47
+msgid "SeventeenthListItem"
+msgstr "Lernschwierigkeiten"
+
+#: .\templates\pages\method.html:48
+msgid "EighteenthListItem"
+msgstr "Bipolare Störungen"
+
+#: .\templates\pages\method.html:49
+msgid "NineteenthListItem"
+msgstr "Posttraumatische Belastungsstörung"
+
+#: .\templates\pages\method.html:50
+msgid "TwentiethListItem"
+msgstr "Schlafprobleme"
+
+#: .\templates\pages\method.html:54
+msgid "PrinciplesTitle"
+msgstr "Die Grundsätze der Kognitiv-behaviorale Psychotherapie sind"
+
+#: .\templates\pages\method.html:56
+msgid "PrinciplesFirstText"
+msgstr "Kognitiv-behaviorale Psychotherapie basiert auf wissenschaftlich fundierten Erkenntnissen. Die Kognitiv-behaviorale arbeitenden Psychotherapeuten aktualisieren ihen Wissensstand durch kontinuierliche Fortbildungen. Die neuen Erkenntnisse werden in der Therapie angewendet. Insbesondere auf Einbezug der neuesten Forschungsergebnisse in Psychologie, Psychotherapie, Psychiatrie und Neurologie wird grossen Wert gelegt."
+
+#: .\templates\pages\method.html:58
+msgid "PrinciplesSecondText"
+msgstr "Das Verhalten, Denken, Fühlen und die physiologischen Reaktionen des Menschen sind meist erlernt. Sind in diesen Bereichen Beschwerden vorhanden, glaubt die Theorie der kognitiv-behavioralen Psychotherapie daran, dass die Problembereiche verändert werden können. Man lernt neu, anders zu Fühlen, anders zu Denken usw."
+
+#: .\templates\pages\method.html:60
+msgid "PrinciplesThirdText"
+msgstr "Die aktuell vorhandenen Beschwerden sind Gegenstand der Therapie. Die Behandlung bestehender Probleme wird vorrangig behandelt. Therapeuten passen ihre Arbeitsweise an die Bedürfnisse der PatientInnen an.Neben der Lösung des aktuellen Problems entwickelt der Patient Problemlösungsmethoden."
+
+#: .\templates\pages\method.html:62
+msgid "PrinciplesFourthText"
+msgstr "Gemeinsam mit Patienten werden Therapieziele vereinbart. Die Behandlung geht zu Ende, sobald diese erreicht wurden. Im Vergleich zu vielen anderen Psychotherapien dauert die kognitiv-behaviorale Psychotherapie weniger lang. Kognitiv-behaviorale Psychotherapie ist transparent. PatientInnen und TherapeutInnen gehen Probleme gemeinsam an. TherapeutInnen setzen die PatientInnen über therapeutische Vorgehensweise in Kenntnis."
+
+#: .\templates\pages\method.html:64
+msgid "PrinciplesFifthText"
+msgstr "PatientInnen sind im Therapieprozess aktiv. Sie erlernen neue Arten des Verhaltens, Denkens, Fühlens und der Problemlösestrategien, die sie in ihrem Leben ausprobieren. Das neu Erlernte wird im Therapiesetting und im Alltag in die Tat umgesetzt. Kognitiv-behaviorale Psychotherapie definiert sich als Hilfe zur Selbsthilfe."
+
+#: .\templates\pages\rates.html:16
+msgid "RateFirstText"
+msgstr "Der Tarif für eine 1-stündige Sitzung beträgt 160 CHF. Bitte beschreiben Sie, in welchem Umfang sich Ihre Krankenkasse an den Kosten beteiligt (Zusatzversicherung). Viele Krankenkassen verlangen eine Überweisung von einem Arzt."
+
+#: .\templates\pages\rates.html:18
+msgid "RateSecondText"
+msgstr "Als Selbstzahler können Sie die Kosten auch als Investition in Ihre persönliche Entwicklung und Selbstfürsorge betrachten."
+
+#: .\templates\pages\rates.html:20
+msgid "RateThirdText"
+msgstr "Übernahme der Kosten einer Psychotherapie nach dem Opferhilfegesetz (zB bei sexuellem Missbrauch, Vergewaltigung, Körperverletzung, Stalking, Geiselnahme). Informationen und Antrag an die Opferhilfestelle Ihres Kantons."
+
+#: .\templates\pages\rates.html:22
+msgid "RateFourthText"
+msgstr "Bei einem Unfall können die Kosten der Psychotherapie von einer Versicherung übernommen werden. Auch Angehörige oder Hinterbliebene von Opfern können die Möglichkeit der Kostenerstattung haben. Als Fachpsychologe für Psychotherapie FSP habe ich eine Berufsunfähigkeitsversicherung (IV) anerkannt. Bei Erwachsenen mit IV-Renten werden die Kosten der Psychotherapie voraussichtlich durch Zusatzleistungen gedeckt."
+
+#: .\templates\partials\_navbar.html:18
+msgid "HomeButton"
+msgstr "HOME"
+
+#: .\templates\partials\_navbar.html:21
+msgid "AboutButton"
+msgstr "ÜBER MİCH"
+
+#: .\templates\partials\_navbar.html:24
+msgid "MethodButton"
+msgstr "METHOD"
+
+#: .\templates\partials\_navbar.html:27
+msgid "RatesButton"
+msgstr "TARİFE"
+
+#: .\templates\partials\_navbar.html:30
+msgid "ContactButton"
+msgstr "KONTAKT"

@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/pages/method.css' %}">
+{% endblock %}
+{% block title %}Method{% endblock %}
+
+{% block content %}
+<div class="background_filling"></div>
+
+<!-- method welcoming section -->
+<div class="method_welcoming_section layout_padding-top">
+    <div class="container">
+        <h2 class="method_welcoming_title">{% trans 'MethodWelcomingTitle' %}</h2>
+        <br>
+        <p class="method_welcoming_text">{% trans 'MethodWelcomingText' %}</p>
+    </div>
+</div>
+<!-- end method welcoming section -->
+
+
+<!-- method page section -->
+<div class="method_page_section layout_margin">
+    <div class="container">
+        <div class="row">
+            <div class="list_section col-12 col-md-12 col-lg-5">
+                <h5 class="list_title">{% trans 'ListTitle' %}</h5>
+                <ul>
+                    <li class="list_item">{% trans 'FirstListItem' %}</li>
+                    <li class="list_item">{% trans 'SecondListItem' %}</li>
+                    <li class="list_item">{% trans 'ThirdListItem' %}</li>
+                    <li class="list_item">{% trans 'FourthListItem' %}</li>
+                    <li class="list_item">{% trans 'FifthListItem' %}</li>
+                    <li class="list_item">{% trans 'SixthListItem' %}</li>
+                    <li class="list_item">{% trans 'SeventhListItem' %}</li>
+                    <li class="list_item">{% trans 'EighthListItem' %}</li>
+                    <li class="list_item">{% trans 'NinthListItem' %}</li>
+                    <li class="list_item">{% trans 'TenthListItem' %}</li>
+                    <li class="list_item">{% trans 'EleventhListItem' %}</li>
+                    <li class="list_item">{% trans 'TwelfthListItem' %}</li>
+                    <li class="list_item">{% trans 'ThirteenthListItem' %}</li>
+                    <li class="list_item">{% trans 'FourteenthListItem' %}</li>
+                    <li class="list_item">{% trans 'FifteenthListItem' %}</li>
+                    <li class="list_item">{% trans 'SixteenthListItem' %}</li>
+                    <li class="list_item">{% trans 'SeventeenthListItem' %}</li>
+                    <li class="list_item">{% trans 'EighteenthListItem' %}</li>
+                    <li class="list_item">{% trans 'NineteenthListItem' %}</li>
+                    <li class="list_item">{% trans 'TwentiethListItem' %}</li>
+                </ul>
+            </div>
+            <div class="principles_section col-12 col-md-12 col-lg-7">
+                <h5 class="principles_title">{% trans 'PrinciplesTitle' %}</h5> <br>
+                <div class="principles_text">
+                    {% trans 'PrinciplesFirstText' %}
+                    <br><br>
+                    {% trans 'PrinciplesSecondText' %}
+                    <br><br>
+                    {% trans 'PrinciplesThirdText' %}
+                    <br><br>
+                    {% trans 'PrinciplesFourthText' %}
+                    <br><br>
+                    {% trans 'PrinciplesFifthText' %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end method page section -->
+
+{% endblock %}

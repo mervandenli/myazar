@@ -1,0 +1,37 @@
+{% load static %}
+{% load i18n %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/lngbutton.css' %}">
+{% endblock %}
+
+<section class="model-1 pt-5">
+    <div class="float-btn-group">
+        <button class="btn-float lnglbtn btn-triger" type="button"><i class="fas fa-globe-africa"></i></button>
+        <div class="btn-list">
+            <form action="{% url 'set_language' %}" method="POST" class="btn-float lngbtn">
+                {% csrf_token %}
+                <input name="next" type="hidden" value="{{ redirect_to }}" />
+                <input name="language" type="hidden" value="de" />
+                <button type="submit" class="btn-float lngbtn"><img src="/static/media/icon/de.png" class="logos"></button>
+            </form>
+            <form action="{% url 'set_language' %}" method="POST" class="btn-float lngbtn">
+                {% csrf_token %}
+                <input name="next" type="hidden" value="{{ redirect_to }}" />
+                <input name="language" type="hidden" value="ku" />
+                <button type="submit" class="btn-float lngbtn"><img src="/static/media/icon/kr.png" class="logos"></button>
+            </form>
+            <form action="{% url 'set_language' %}" method="POST" class="btn-float lngbtn">
+                {% csrf_token %}
+                <input name="next" type="hidden" value="{{ redirect_to }}" />
+                <input name="language" type="hidden" value="tr" />
+                <button type="submit" class="btn-float lngbtn"><img src="/static/media/icon/tr.png" class="logos"></button>
+            </form>
+        </div>
+    </div>
+</section>
+<script>
+    document.querySelector('.btn-triger').addEventListener("click", function(){
+        $(this).closest('.float-btn-group').toggleClass('open');
+    })
+</script>

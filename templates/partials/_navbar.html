@@ -1,0 +1,36 @@
+{% load static %}
+{% load i18n %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+{% endblock %}
+
+<header class="header_section">
+    <nav class="navbar navbar-expand-md navbar_section navbar-dark">
+        <div class="container-fluid">
+            <img class="logo" src="{% static 'media/logo/logo.png' %}">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarToggler">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="{% url 'home' %}">{% trans 'HomeButton' %}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'about' %}">{% trans 'AboutButton' %}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'method' %}">{% trans 'MethodButton' %}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'rates' %}">{% trans 'RatesButton' %}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'contact' %}">{% trans 'ContactButton' %}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>

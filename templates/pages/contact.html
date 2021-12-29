@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/pages/contact.css' %}">
+{% endblock %}
+{% block title %}Contact{% endblock %}
+
+{% block content %}
+<div class="background_filling"></div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="info_section layout_padding-top">
+                <p><span>{% trans 'AdressTitle' %}:</span> Waisenhausplatz 21, 3011 Bern</p>
+                <p><span>{% trans 'PhoneTitle' %}:</span> 076 277 55 57</p>
+                <p><span>Fax:</span> 031 311 26 68</p>
+                <p><span>Mail:</span> m.yazar@bluewin.ch</p>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="location_section layout_margin">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2723.6400224431495!2d7.440995670064644!3d46.9491137178083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39c0c374fdc5%3A0xb4460e939abce89b!2sWaisenhauspl.%2021%2C%203011%20Bern!5e0!3m2!1str!2sch!4v1628830380461!5m2!1str!2sch" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

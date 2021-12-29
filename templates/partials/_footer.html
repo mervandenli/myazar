@@ -1,0 +1,15 @@
+{% load static %}
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+{% endblock %}
+
+<footer class="footer_section">
+    <div class="footer_info">
+        <span>Copyright © <span style="color: #fff;">Melahat YAZAR, lic. phil. Psychologin FSP </span><span id="date"></span></span>
+    </div>
+    <script>
+        n =  new Date();
+        y = n.getFullYear();
+        document.getElementById("date").innerHTML = y;
+    </script>
+</footer>

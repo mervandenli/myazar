@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'css/pages/rates.css' %}">
+{% endblock %}
+{% block title %}Rates{% endblock %}
+
+{% block content %}
+<div class="background_filling"></div>
+
+<div class="rate_section layout_padding-top">
+    <div class="container">
+        <p class="rate_text">
+            {% trans 'RateFirstText' %}
+            <br><br>
+            {% trans 'RateSecondText' %}
+            <br><br>
+            {% trans 'RateThirdText' %}
+            <br><br>
+            {% trans 'RateFourthText' %}
+        </p>
+    </div>
+</div>
+{% endblock %}

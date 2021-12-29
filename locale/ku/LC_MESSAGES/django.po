@@ -1,0 +1,269 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-21 21:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\m_yazar\settings.py:113
+msgid "German"
+msgstr "Deutsch"
+
+#: .\m_yazar\settings.py:114
+msgid "Kurdish"
+msgstr "Kurdî"
+
+#: .\m_yazar\settings.py:115
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: .\templates\pages\about.html:27
+msgid "AboutPageText"
+msgstr "Ez rawêjkarê psîkolojiyê yê kurd im û li zanîngeha Baselê di warê psîkolojiya klînîkî, derûnnasiya giştî û pizîşkî de master kiriye. Min di warê psîkoterapiyê de wekî psîkoterapîstek behremendî ya naskirî perwerde kir. Bi zarok, ciwan û mezinan re gelek sal ezmûna min a xebatê heye."
+
+#: .\templates\pages\about.html:38
+msgid "FirstCertTitle"
+msgstr "Zanîngeha Baselê"
+
+#: .\templates\pages\about.html:39
+msgid "FirstCertText"
+msgstr "Psîkolojiya klînîkî, psîkolojiya gelemperî, û perwerdehiya bijîjkî"
+
+#: .\templates\pages\about.html:47
+msgid "SecondCertTitle"
+msgstr "Bernameya Masterê"
+
+#: .\templates\pages\about.html:48
+msgid "SecondCertText"
+msgstr "Bernameya Masterê"
+
+#: .\templates\pages\about.html:56
+msgid "ThirdCertTitle"
+msgstr "Perwerdehiya Psîkoterapiya"
+
+#: .\templates\pages\about.html:57
+msgid "ThirdCertText"
+msgstr "Nasname-Behavioral"
+
+#: .\templates\pages\contact.html:17
+msgid "AdressTitle"
+msgstr "NAVNÎŞAN"
+
+#: .\templates\pages\contact.html:18
+msgid "PhoneTitle"
+msgstr "TELEFÛN"
+
+#: .\templates\pages\index.html:21
+msgid "BannerText"
+msgstr "Ji bo mezin, malbat, ciwan û zarokan ku bi Kurdî, Tirkî û Almanî pirsan bikin û randevûyê bidin;"
+
+#: .\templates\pages\index.html:24
+msgid "PhoneButton"
+msgstr "Bang Kırın"
+
+#: .\templates\pages\index.html:25
+msgid "MailButton"
+msgstr "Mail Dışîn"
+
+#: .\templates\pages\index.html:44
+msgid "AdressText"
+msgstr "NAVNÎŞAN"
+
+#: .\templates\pages\index.html:66
+msgid "MobileText"
+msgstr "TELEFÛN"
+
+#: .\templates\pages\index.html:104
+msgid "AboutText"
+msgstr "Ez rawêjkarê psîkolojiyê yê kurd im û li zanîngeha Baselê di warê psîkolojiya klînîkî, derûnnasiya giştî û pizîşkî de master kiriye. Min di warê psîkoterapiyê de wekî psîkoterapîstek behremendî ya naskirî perwerde kir. Bi zarok, ciwan û mezinan re gelek sal ezmûna min a xebatê heye."
+
+#: .\templates\pages\index.html:105
+msgid "ReadMoreButton"
+msgstr "Zêdetir bixwînin"
+
+#: .\templates\pages\index.html:117
+msgid "ParagraphTitle"
+msgstr "Ramanên sereke yên Psîkoterapiya Cognitive-Behavioral"
+
+#: .\templates\pages\index.html:118
+msgid "FirstParagraph"
+msgstr "Ew li ser vê bingehê ye ku tevger, raman, hest û reaksiyonên laş bi gelemperî têne fêr kirin. Ger pirsgirêk li van deveran çêbibe, tê texmîn kirin ku ew dikarin di pir rewşan de biguhezin. Bi gotinek din, ya ku fêr dibe dibe ku bi zanebûn neyê bikar anîn an tiştên din li şûna wan fêr bibin û bikar bînin."
+
+#: .\templates\pages\index.html:119
+msgid "SecondParagraph"
+msgstr "Ew li ser bingeha zanyariya ku li ser bingehek zanistî hatî wergirtin de ye. Terapîstên ku di vî warî de dixebitin zanebûna xwe bi perwerdehiya domdar nû dikin û ezmûnên ku di lêkolîna zanistî ya heyî de di terapiyê de hatine bikar anîn bikar tînin. Lêkolînên zanistî yên di warên psîkolojî, psîkoterapî, psîkiyatrî û neurolojiyê de têne şopandin."
+
+#: .\templates\pages\index.html:131
+msgid "BackgroundText"
+msgstr "Hûn afirînerê rastiya xwe ne û jiyan ji bilî ya ku hûn difikirin nikare rêyek din nîşanî we bide."
+
+#: .\templates\pages\index.html:143
+msgid "ThirdParagraph"
+msgstr "Nexweş û terapîst armancek destnîşan kirin ku bi dermankirinê re tê bidest xistin. Dema ku armanca terapiyê pêk hat, terapî qediya. Li gorî şêwazên din ên terapiyê, Psîkoterapiya Têgihîştî-Behavioral kêm wext digire. Psîkoterapiya Cognitive-Behavioral zelal e. Nexweş û terapîst çavkaniya pirsgirêkan bi hev re dibînin. Terapîst ji nexweş re awayên ku ji bo çareserkirina pirsgirêkan têne bikar anîn vedibêje."
+
+#: .\templates\pages\index.html:144
+msgid "FourthParagraph"
+msgstr "Nexweş di pêvajoya saxbûnê de çalak in. Ew tevger, raman, hest an stratejiyên çareserkirina pirsgirêkê nû digirin û diceribînin. Van ceribandinan di cîhê terapiyê de û di jiyana rojane de têne kirin. Psîkoterapiya Cognitive-Behavioral alîkariya mirovan dike ku pirsgirêkên xwe çareser bikin."
+
+#: .\templates\pages\method.html:16
+msgid "MethodWelcomingTitle"
+msgstr "HEVKAR- PYSOTERAPYYA BHAYER ÇI YE?"
+
+#: .\templates\pages\method.html:18
+msgid "MethodWelcomingText"
+msgstr "Psîkoterapiya Cognitive-Behavioral ji bo dermankirina pirsgirêkên giyanî rêbazek psîkoterapiyê ye ku bingeha zanistî ye."
+
+#: .\templates\pages\method.html:29
+msgid "ListTitle"
+msgstr "Di dermankirina kîjan nexweşiyan de Psîkoterapiya Têgihîştî-Behavioral tê bikar anîn?"
+
+#: .\templates\pages\method.html:31
+msgid "FirstListItem"
+msgstr "Xemgînî û êrîşên panîkê"
+
+#: .\templates\pages\method.html:32
+msgid "SecondListItem"
+msgstr "Fobî (mînak Agoraphobia)"
+
+#: .\templates\pages\method.html:33
+msgid "ThirdListItem"
+msgstr "Sendroma westandina kronîk"
+
+#: .\templates\pages\method.html:34
+msgid "FourthListItem"
+msgstr "Hişleqî"
+
+#: .\templates\pages\method.html:35
+msgid "FifthListItem"
+msgstr "Nexweşiya obsessive mecbûrî"
+
+#: .\templates\pages\method.html:36
+msgid "SixthListItem"
+msgstr "Nexweşiyên xwarinê"
+
+#: .\templates\pages\method.html:37
+msgid "SeventhListItem"
+msgstr "Pirsgirêkên cinsî"
+
+#: .\templates\pages\method.html:38
+msgid "EighthListItem"
+msgstr "Mijarên têkiliyê"
+
+#: .\templates\pages\method.html:39
+msgid "NinthListItem"
+msgstr "Têkiliyên di navbera Hevjînan (Terapiyên Hevjînan)"
+
+#: .\templates\pages\method.html:40
+msgid "TenthListItem"
+msgstr "Pirsgirêkên zaroktî û ciwaniyê"
+
+#: .\templates\pages\method.html:41
+msgid "EleventhListItem"
+msgstr "Pirsgirêkên tenduristiya gelemperî"
+
+#: .\templates\pages\method.html:42
+msgid "TwelfthListItem"
+msgstr "Êşa kronîk"
+
+#: .\templates\pages\method.html:43
+msgid "ThirteenthListItem"
+msgstr "Hînbûnî"
+
+#: .\templates\pages\method.html:44
+msgid "FourteenthListItem"
+msgstr "Hêrs"
+
+#: .\templates\pages\method.html:45
+msgid "FifteenthListItem"
+msgstr "Pirsgirêkên ku bi karanîna narkotîk û alkolê ve girêdayî ne"
+
+#: .\templates\pages\method.html:46
+msgid "SixteenthListItem"
+msgstr "Izîzofrenî û psîkozên din"
+
+#: .\templates\pages\method.html:47
+msgid "SeventeenthListItem"
+msgstr "Pirsgirêkên têkildarî astengiyên fêrbûnê"
+
+#: .\templates\pages\method.html:48
+msgid "EighteenthListItem"
+msgstr "Nexweşiya Bipolar"
+
+#: .\templates\pages\method.html:49
+msgid "NineteenthListItem"
+msgstr "Nexweşiya stresê ya piştî trawmatîk"
+
+#: .\templates\pages\method.html:50
+msgid "TwentiethListItem"
+msgstr "Nexweşiyên xewê"
+
+#: .\templates\pages\method.html:54
+msgid "PrinciplesTitle"
+msgstr "Ramanên sereke yên Psîkoterapiya Cognitive-Behavioral"
+
+#: .\templates\pages\method.html:56
+msgid "PrinciplesFirstText"
+msgstr "Ew li ser vê bingehê ye ku tevger, raman, hest û reaksiyonên laş bi gelemperî têne fêr kirin. Ger pirsgirêk li van deveran çêbibe, tê texmîn kirin ku ew dikarin di pir rewşan de biguhezin. Bi gotinek din, ya ku fêr dibe dibe ku bi zanebûn neyê bikar anîn an tiştên din li şûna wan fêr bibin û bikar bînin."
+
+#: .\templates\pages\method.html:58
+msgid "PrinciplesSecondText"
+msgstr "Ew li ser bingeha zanyariya ku li ser bingehek zanistî hatî wergirtin de ye. Terapîstên ku di vî warî de dixebitin zanebûna xwe bi perwerdehiya domdar nû dikin û ezmûnên ku di lêkolîna zanistî ya heyî de di terapiyê de hatine bikar anîn bikar tînin. Lêkolînên zanistî yên di warên psîkolojî, psîkoterapî, psîkiyatrî û neurolojiyê de têne şopandin."
+
+#: .\templates\pages\method.html:60
+msgid "PrinciplesThirdText"
+msgstr "Pirsgirêkên heyî xala dermankirinê ne. Pêşîn ji dermankirina pirsgirêkên heyî re tê dayîn. Terapîst şêwazê xebata xwe/wê li gorî nexweş û pirsgirêka wî/wê çêdike. Digel çareserkirina pirsgirêka heyî, nexweş rêbazên çareserkirina pirsgirêkê pêş dixe."
+
+#: .\templates\pages\method.html:62
+msgid "PrinciplesFourthText"
+msgstr "Nexweş û terapîst armancek destnîşan kirin ku bi dermankirinê re tê bidest xistin. Dema ku armanca terapiyê pêk hat, terapî qediya. Li gorî şêwazên din ên terapiyê, Psîkoterapiya Têgihîştî-Behavioral kêm wext digire. Psîkoterapiya Cognitive-Behavioral zelal e. Nexweş û terapîst çavkaniya pirsgirêkan bi hev re dibînin. Terapîst ji nexweş re awayên ku ji bo çareserkirina pirsgirêkan têne bikar anîn vedibêje."
+
+#: .\templates\pages\method.html:64
+msgid "PrinciplesFifthText"
+msgstr "Nexweş di pêvajoya saxbûnê de çalak in. Ew tevger, raman, hest an stratejiyên çareserkirina pirsgirêkê nû digirin û diceribînin. Van ceribandinan di cîhê terapiyê de û di jiyana rojane de têne kirin. Psîkoterapiya Cognitive-Behavioral alîkariya mirovan dike ku pirsgirêkên xwe çareser bikin."
+
+#: .\templates\pages\rates.html:16
+msgid "RateFirstText"
+msgstr "Tarifa ji bo rûniştinek 1-demjimêr 160 CHF ye. Ji kerema xwe sîgorteya tenduristiya we dê heya çi radeyê beşdarî lêçûnan bibe (bîmeya zêde). Gelek pargîdaniyên bîmeya tenduristiyê hewcedariya referansê ji bijîjkek heye."
+
+#: .\templates\pages\rates.html:18
+msgid "RateSecondText"
+msgstr "Wekî xwedan-drav, hûn dikarin lêçûnan jî wekî veberhênanek di pêşkeftina kesane û xweseriya xwe de bibînin."
+
+#: .\templates\pages\rates.html:20
+msgid "RateThirdText"
+msgstr "Li gorî Qanûna Alîkariya Mexdûran lêçûnên psîkoterapiyê vedigire (mînak mînak di derheqê destdirêjiya cinsî, destavêtin, destdirêjî, şopandin, rehîn girtin). Agahî û serîlêdana ji bo ofîsa piştgiriya mexdûran li kantona we."
+
+#: .\templates\pages\rates.html:22
+msgid "RateFourthText"
+msgstr "Di bûyerek qeza de, lêçûnên psîkoterapiyê dibe ku ji hêla pargîdaniyek bîmeyê ve were lêkirin. Xizm an kesên pêwendîdar ên mexdûran jî dikarin vebijarka vegerandina lêçûnan hebe. Ez wekî psîkologê pispor ê psîkoterapiyê FSP, nasnameya bîmeya seqetiyê (IV) heye. Ji bo mezinan bi teqawidiyên IV, lêçûna psîkoterapiyê dibe ku ji hêla feydeyên zêde ve were lêkirin."
+
+#: .\templates\partials\_navbar.html:18
+msgid "HomeButton"
+msgstr "Xanî"
+
+#: .\templates\partials\_navbar.html:21
+msgid "AboutButton"
+msgstr "Dexıstın"
+
+#: .\templates\partials\_navbar.html:24
+msgid "MethodButton"
+msgstr "Awa"
+
+#: .\templates\partials\_navbar.html:27
+msgid "RatesButton"
+msgstr "Batxwne"
+
+#: .\templates\partials\_navbar.html:30
+msgid "ContactButton"
+msgstr "Têkelî"

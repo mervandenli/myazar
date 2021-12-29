@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-21 21:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\m_yazar\settings.py:113
+msgid "German"
+msgstr "Deutsch"
+
+#: .\m_yazar\settings.py:114
+msgid "Kurdish"
+msgstr "Kurdî"
+
+#: .\m_yazar\settings.py:115
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: .\templates\pages\about.html:27
+msgid "AboutPageText"
+msgstr "Basel Üniversitesi'nde klinik psikoloji, genel psikoloji ve tıp alanında yüksek lisans yapmış bir Kürt psikoloji danışmanıyım. Psikoterapi alanında bilişsel davranışçı psikoterapist olarak eğitim aldım. Çocuklar, gençler ve yetişkinlerle uzun yıllara dayanan iş deneyimim var."
+
+#: .\templates\pages\about.html:38
+msgid "FirstCertTitle"
+msgstr "Basel Üniversitesi"
+
+#: .\templates\pages\about.html:39
+msgid "FirstCertText"
+msgstr "Klinik psikoloji, genel psikoloji ve tıp eğitimi"
+
+#: .\templates\pages\about.html:47
+msgid "SecondCertTitle"
+msgstr "Yüksek lisans Diploması"
+
+#: .\templates\pages\about.html:48
+msgid "SecondCertText"
+msgstr "Yüksek lisans Diploması"
+
+#: .\templates\pages\about.html:56
+msgid "ThirdCertTitle"
+msgstr "Psikoterapi Stajı"
+
+#: .\templates\pages\about.html:57
+msgid "ThirdCertText"
+msgstr "Bilişsel- Davranışçı Psikoterapi"
+
+#: .\templates\pages\contact.html:17
+msgid "AdressTitle"
+msgstr "Adres"
+
+#: .\templates\pages\contact.html:18
+msgid "PhoneTitle"
+msgstr "Mobil"
+
+#: .\templates\pages\index.html:21
+msgid "BannerText"
+msgstr "Yetişkinler, aileler, gençler ve çocuklar için Kürtçe, Türkçe ve Almanca dillerinde soru sormak ve randevu almak için;"
+
+#: .\templates\pages\index.html:24
+msgid "PhoneButton"
+msgstr "Hemen Arayın"
+
+#: .\templates\pages\index.html:25
+msgid "MailButton"
+msgstr "Mail Atın"
+
+#: .\templates\pages\index.html:44
+msgid "AdressText"
+msgstr "Adres"
+
+#: .\templates\pages\index.html:66
+msgid "MobileText"
+msgstr "Mobil"
+
+#: .\templates\pages\index.html:104
+msgid "AboutText"
+msgstr "Basel Üniversitesi'nde klinik psikoloji, genel psikoloji ve tıp alanında yüksek lisans yapmış bir Kürt psikoloji danışmanıyım. Psikoterapi alanında bilişsel davranışçı psikoterapist olarak eğitim aldım. Çocuklar, gençler ve yetişkinlerle uzun yıllara dayanan iş deneyimim var."
+
+#: .\templates\pages\index.html:105
+msgid "ReadMoreButton"
+msgstr "Devamını Oku"
+
+#: .\templates\pages\index.html:117
+msgid "ParagraphTitle"
+msgstr "Bilişsel- Davranışçı Psikoterapi'nin ana fikirleri"
+
+#: .\templates\pages\index.html:118
+msgid "FirstParagraph"
+msgstr "İnsanların davranışları, düşünceleri, hisleri ve vücut reaksiyonlarının büyük oranda öğrenildiğinden yola çıkılır. Eğer bu alanlarda problemler yaşanırsa, bunların bir çok durumda değiştirebileceği var sayılır. Yani öğrenilenler bilinçli bir şekilde kullanılmayabilinir yada yerlerine başka şeyler öğrenilir ve kullanılır."
+
+#: .\templates\pages\index.html:119
+msgid "SecondParagraph"
+msgstr "Bilimsel temelde kazanılan bilgilerden yola çıkılır. Bu alanda çalışan terapistler, sürekli eğitim yolu ile bilgilerini tazeler ve aktüel bilimsel araştırmalarda edinilen tecrübeleri terapide kullanırlar. Özellikle psikoloji, psikoterapi, psikiyatri ve nöroloji alanlarındaki bilimsel araştırmalar güncel takip edilir."
+
+#: .\templates\pages\index.html:131
+msgid "BackgroundText"
+msgstr "Kendi realitenizin yaratıcısı sizsiniz ve hayat, düşündüğünüzden başka bir yol gösteremez."
+
+#: .\templates\pages\index.html:143
+msgid "ThirdParagraph"
+msgstr "Hasta ve terapist tedavi ile ulaşılacak bir HEDEF belirler. Terapi hedefine ulaşıldığında, terapi bitirilir. Başka terapi yöntemleri ile karşılaştırıldığında, Bilişsel- Davranışçı Psikoterapi daha kısa sürer. Bilişsel- Davranışçı Psikoterapi şeffaftır. Hasta ve terapist sorunların kaynağını birlikte bulurlar. Terapist sorunların çözümleri için kullandığı yöntemleri hastaya açıklar."
+
+#: .\templates\pages\index.html:144
+msgid "FourthParagraph"
+msgstr "Hastalar iyileşme sürecinde aktiftirler. Yeni davranış, düşünüş, hissediş yada problem çözme stratejilerini hayatlarına alır ve denerler. Bu denemeler terapi ortamında ve günlük hayatta yapılır. Bilişsel- Davranışçı Psikoterapi, insanların kendi problemlerini kendilerinin çözmeleri için yardımdır."
+
+#: .\templates\pages\method.html:16
+msgid "MethodWelcomingTitle"
+msgstr "BİLİŞSEL- DAVRANIŞÇI PSİKOTERAPİ NEDİR?"
+
+#: .\templates\pages\method.html:18
+msgid "MethodWelcomingText"
+msgstr "Bilişsel- Davranışçı Psikoterapi, ruhsal problemlerin tedavisi için, bilimsel temellere dayalı bir Psikoterapi yöntemidir."
+
+#: .\templates\pages\method.html:29
+msgid "ListTitle"
+msgstr "Bilişsel- Davranışçı Psikoterapi hangi hastalıkların tedavisinde kullanılır?"
+
+#: .\templates\pages\method.html:31
+msgid "FirstListItem"
+msgstr "Anksiyete ve panik atakları"
+
+#: .\templates\pages\method.html:32
+msgid "SecondListItem"
+msgstr "Fobiler (ör. Agorafobi, Sosyal fobi)"
+
+#: .\templates\pages\method.html:33
+msgid "ThirdListItem"
+msgstr "Kronik yorgunluk sendromu"
+
+#: .\templates\pages\method.html:34
+msgid "FourthListItem"
+msgstr "Depresyon"
+
+#: .\templates\pages\method.html:35
+msgid "FifthListItem"
+msgstr "Obsesif-Kompulsif bozukluk"
+
+#: .\templates\pages\method.html:36
+msgid "SixthListItem"
+msgstr "Yeme bozuklukları"
+
+#: .\templates\pages\method.html:37
+msgid "SeventhListItem"
+msgstr "Cinsel sorunlar"
+
+#: .\templates\pages\method.html:38
+msgid "EighthListItem"
+msgstr "Sosyal ilişki sorunları"
+
+#: .\templates\pages\method.html:39
+msgid "NinthListItem"
+msgstr "Eşler arası ilişkiler (Eş Terapileri)"
+
+#: .\templates\pages\method.html:40
+msgid "TenthListItem"
+msgstr "Çocukluk ve ergenlik sorunları"
+
+#: .\templates\pages\method.html:41
+msgid "EleventhListItem"
+msgstr "Genel sağlık sorunları"
+
+#: .\templates\pages\method.html:42
+msgid "TwelfthListItem"
+msgstr "Kronik ağrı"
+
+#: .\templates\pages\method.html:43
+msgid "ThirteenthListItem"
+msgstr "Alışkanlık"
+
+#: .\templates\pages\method.html:44
+msgid "FourteenthListItem"
+msgstr "Öfke"
+
+#: .\templates\pages\method.html:45
+msgid "FifteenthListItem"
+msgstr "İlaç ve alkol kullanımına bağlı sorunlar"
+
+#: .\templates\pages\method.html:46
+msgid "SixteenthListItem"
+msgstr "Şizofreni ve diğer psikozlar"
+
+#: .\templates\pages\method.html:47
+msgid "SeventeenthListItem"
+msgstr "Öğrenme güçlüğüne bağlı sorunlar"
+
+#: .\templates\pages\method.html:48
+msgid "EighteenthListItem"
+msgstr "Bipolar bozukluk"
+
+#: .\templates\pages\method.html:49
+msgid "NineteenthListItem"
+msgstr "Travma sonrası stres bozukluğu"
+
+#: .\templates\pages\method.html:50
+msgid "TwentiethListItem"
+msgstr "Uyku bozuklukları"
+
+#: .\templates\pages\method.html:54
+msgid "PrinciplesTitle"
+msgstr "Bilişsel- Davranışçı Psikoterapi'nin ana fikirleri"
+
+#: .\templates\pages\method.html:56
+msgid "PrinciplesFirstText"
+msgstr "İnsanların davranışları, düşünceleri, hisleri ve vücut reaksiyonlarının büyük oranda öğrenildiğinden yola çıkılır. Eğer bu alanlarda problemler yaşanırsa, bunların bir çok durumda değiştirebileceği var sayılır. Yani öğrenilenler bilinçli bir şekilde kullanılmayabilinir yada yerlerine başka şeyler öğrenilir ve kullanılır."
+
+#: .\templates\pages\method.html:58
+msgid "PrinciplesSecondText"
+msgstr "Bilimsel temelde kazanılan bilgilerden yola çıkılır. Bu alanda çalışan terapistler, sürekli eğitim yolu ile bilgilerini tazeler ve aktüel bilimsel araştırmalarda edinilen tecrübeleri terapide kullanırlar. Özellikle psikoloji, psikoterapi, psikiyatri ve nöroloji alanlarındaki bilimsel araştırmalar güncel takip edilir."
+
+#: .\templates\pages\method.html:60
+msgid "PrinciplesThirdText"
+msgstr "Mevcut problemler tedavinin odağıdır. Halihazırda var olan problemlerin tedavisinde öncelik verilir. Terapist çalışma biçimini hastaya ve onun problemine uyarlar. Mevcut problemin çözümünün yanısıra, hasta problem çözme yöntemleri geliştirir."
+
+#: .\templates\pages\method.html:62
+msgid "PrinciplesFourthText"
+msgstr "Hasta ve terapist tedavi ile ulaşılacak bir HEDEF belirler. Terapi hedefine ulaşıldığında, terapi bitirilir. Başka terapi yöntemleri ile karşılaştırıldığında, Bilişsel- Davranışçı Psikoterapi daha kısa sürer. Bilişsel- Davranışçı Psikoterapi şeffaftır. Hasta ve terapist sorunların kaynağını birlikte bulurlar. Terapist sorunların çözümleri için kullandığı yöntemleri hastaya açıklar."
+
+#: .\templates\pages\method.html:64
+msgid "PrinciplesFifthText"
+msgstr "Hastalar iyileşme sürecinde aktiftirler. Yeni davranış, düşünüş, hissediş yada problem çözme stratejilerini hayatlarına alır ve denerler. Bu denemeler terapi ortamında ve günlük hayatta yapılır. Bilişsel- Davranışçı Psikoterapi, insanların kendi problemlerini kendilerinin çözmeleri için yardımdır."
+
+#: .\templates\pages\rates.html:16
+msgid "RateFirstText"
+msgstr "1 saatlik seans tarifesi 160 CHF'dir. Lütfen sağlık sigortanızın maliyetlere ne ölçüde katkıda bulunacağını açıklayın (ek sigorta). Birçok sağlık sigortası şirketi bir doktordan sevk ister."
+
+#: .\templates\pages\rates.html:18
+msgid "RateSecondText"
+msgstr "Kendi kendine ödeme yapan biri olarak, maliyetleri kişisel gelişiminize ve kişisel bakımınıza yapılan bir yatırım olarak da görebilirsiniz."
+
+#: .\templates\pages\rates.html:20
+msgid "RateThirdText"
+msgstr "Mağdurlara Yardım Yasası çerçevesinde psikoterapi masraflarının üstlenilmesi (örn. cinsel istismar, tecavüz, saldırı, takip, rehin alma durumunda). Kantonunuzdaki mağdur destek ofisine bilgi ve başvuru."
+
+#: .\templates\pages\rates.html:22
+msgid "RateFourthText"
+msgstr "Kaza durumunda psikoterapi masrafları bir sigorta şirketi tarafından karşılanabilir. Mağdurların akrabaları veya bakmakla yükümlü oldukları kişiler de masrafların geri ödenmesi seçeneğine sahip olabilir. Psikoterapi FSP için uzman bir psikolog olarak, maluliyet sigortasının (IV) tanınmasına sahibim. IV aylığı olan yetişkinler için psikoterapi masrafları muhtemelen ek yardımlarla karşılanabilir."
+
+#: .\templates\partials\_navbar.html:18
+msgid "HomeButton"
+msgstr "Anasayfa"
+
+#: .\templates\partials\_navbar.html:21
+msgid "AboutButton"
+msgstr "Hakkında"
+
+#: .\templates\partials\_navbar.html:24
+msgid "MethodButton"
+msgstr "Yöntem"
+
+#: .\templates\partials\_navbar.html:27
+msgid "RatesButton"
+msgstr "Tarife"
+
+#: .\templates\partials\_navbar.html:30
+msgid "ContactButton"
+msgstr "İletişim"
